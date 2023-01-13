@@ -1,5 +1,5 @@
 # proglog
-Code along with Distributed Services With Go.
+Code along with **Distributed Services With Go.**
 
 
 * Chap 1 ✅
