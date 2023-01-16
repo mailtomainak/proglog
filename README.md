@@ -2,5 +2,5 @@
 Code along with **Distributed Services With Go.**
 
 
-* Chap 1 ✅
-* Chap 2
+* Chapter 1 ✅
+* Chapter 2 🚧
