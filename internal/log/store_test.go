@@ -54,6 +54,7 @@ func testRead(t *testing.T, s *store) {
 		b, err := s.Read(pos)
 		require.NoError(t, err)
 		require.Equal(t, write, b)
+		pos += width
 	}
 }
 
